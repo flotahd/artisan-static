@@ -28,7 +28,7 @@ ___
 
 Use this deploy button to get your own copy of the repository.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/raniesantos/artisan-static&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/raniesantos/artisan-static&stack=cms) [![Greenkeeper badge](https://badges.greenkeeper.io/flotahd/artisan-static.svg)](https://greenkeeper.io/)
 
 This button will do the following:
 
